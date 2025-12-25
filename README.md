@@ -116,9 +116,9 @@ These templates are explicitly documented to support long-term retention.
 ## 📈 Progress
 
 - [x] LC75 – Problem 1: Merge Strings Alternately
-- [ ] LC75 – Problem 2: Greatest Common Divisor of Strings
-- [ ] LC75 – Problem 3: Kids With the Greatest Number of Candies
-- [ ] …
+- [x] LC75 – Problem 2: Greatest Common Divisor of Strings
+- [x] LC75 – Problem 3: Kids With the Greatest Number of Candies
+- [ ] LC75 – Problem 4: Can Place Flowers
 
 ---
 
